@@ -7,3 +7,10 @@ hr{
 h1,h3{
     color:#40513B;
 }
+.intro{
+    border-spacing:20px;
+}
+.careergap{
+    text-align: justify;
+    font-size: large;
+}
